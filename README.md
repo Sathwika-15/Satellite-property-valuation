@@ -82,4 +82,3 @@ This project develops a **multimodal regression pipeline** to predict residentia
 Satellite imagery provides additional contextual information, leading to improved predictive performance.
 
 ---
-
